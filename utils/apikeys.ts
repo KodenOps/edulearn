@@ -1,0 +1,3 @@
+export const username = '2YcKERnfHMftcBQLH4GdUdcOHIlcsO1zIOr0TOiQ';
+export const password =
+	'V00bUMWf8h10OPIgXJZ61WzmvQzAxkbD1tMcD5UhOYm8iLSqAgO8rYfw6TFt19dCytMsNbieLKW4rtPDnp7yyLsJlSpCWVxanbaAKcfGu2tmRzUHtt4A0bApYNLfgywb';
